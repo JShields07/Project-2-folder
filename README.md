@@ -30,6 +30,14 @@ The comparison will be done for each beverage type separately. For each type, th
 - Average (R/RC)/Price: the average of the ratio of rating and rate count divided by the price of all the brands in the dataset
 - Average ABV/ABV’s listed: the average ABV of all the brands in the dataset
 
+## Machine Learning 
+
+The comparison will be done after each beverage type has a randomized new table generated with new variables to calculate overall differences with a bigger study
+
+- Average Price against Original Average Price
+- Average Rating against Original Average Rating
+- Average ABV against Original ABV
+
 ## Conclusion
 
 This project will help in identifying the brands of alcoholic beverages that offer the best value for money based on the parameters mentioned above. The results can be used by consumers to make an informed decision while purchasing alcoholic beverages.
