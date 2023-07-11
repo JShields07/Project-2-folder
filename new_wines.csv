@@ -1,0 +1,701 @@
+Name,Country,Brand,Categories,Tasting Notes,ABV,Food Pairing,Suggested Glassware,Suggested Serving Temperature,Sweet-Dry Scale,Body,Rating,Rate Count,Price,Volume,Description
+Wine E,Country A,Brand A,Category B,Note C,11.9,Food Pairing A,Glassware A,Cellar Temperature,Dry,Full,4.5,493,55.92,750 mL,Wine description
+Wine A,Country C,Brand A,Category A,Note B,13.4,Food Pairing A,Glassware C,Chilled,Dry,Light,4.2,346,37.52,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note A,14.2,Food Pairing B,Glassware A,Room Temperature,Dry,Light,2.2,62,80.08,750 mL,Wine description
+Wine C,Country B,Brand C,Category B,Note C,13.6,Food Pairing A,Glassware C,Chilled,Dry,Light,1.3,206,79.14,750 mL,Wine description
+Wine B,Country A,Brand B,Category C,Note B,11.5,Food Pairing A,Glassware A,Chilled,Sweet,Full,3.8,489,73.18,750 mL,Wine description
+Wine A,Country B,Brand C,Category C,Note B,13.8,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,3.1,111,64.13,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note B,10.5,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Light,3.1,84,92.16,750 mL,Wine description
+Wine C,Country B,Brand A,Category C,Note A,12.7,Food Pairing C,Glassware B,Chilled,Dry,Full,2.1,329,52.82,750 mL,Wine description
+Wine B,Country B,Brand B,Category C,Note B,14.5,Food Pairing B,Glassware A,Chilled,Dry,Full,4.1,379,84.22,750 mL,Wine description
+Wine D,Country A,Brand B,Category C,Note B,13.0,Food Pairing B,Glassware C,Chilled,Sweet,Medium,1.9,267,13.8,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note B,11.1,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,4.9,434,72.99,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note B,10.1,Food Pairing C,Glassware A,Chilled,Sweet,Full,2.9,51,48.08,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note B,14.4,Food Pairing B,Glassware C,Room Temperature,Sweet,Light,1.3,495,45.06,750 mL,Wine description
+Wine D,Country C,Brand C,Category A,Note A,14.6,Food Pairing C,Glassware A,Room Temperature,Sweet,Light,1.0,57,35.74,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note C,15.0,Food Pairing B,Glassware A,Room Temperature,Dry,Light,3.2,258,70.71,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note B,13.9,Food Pairing B,Glassware C,Chilled,Dry,Light,2.3,35,99.2,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note C,14.2,Food Pairing A,Glassware B,Chilled,Sweet,Medium,3.3,290,64.0,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note B,13.2,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Full,4.8,104,77.84,750 mL,Wine description
+Wine B,Country B,Brand B,Category B,Note B,14.3,Food Pairing C,Glassware C,Chilled,Sweet,Light,1.6,119,57.95,750 mL,Wine description
+Wine A,Country B,Brand B,Category A,Note A,13.5,Food Pairing B,Glassware C,Chilled,Sweet,Medium,1.3,35,32.58,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note B,14.8,Food Pairing C,Glassware A,Cellar Temperature,Dry,Medium,4.5,233,48.18,750 mL,Wine description
+Wine B,Country C,Brand B,Category C,Note A,11.4,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Medium,2.7,274,74.41,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note C,12.0,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,3.0,221,61.66,750 mL,Wine description
+Wine D,Country C,Brand B,Category B,Note B,12.9,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,4.8,234,18.69,750 mL,Wine description
+Wine C,Country A,Brand A,Category C,Note A,10.4,Food Pairing A,Glassware A,Chilled,Dry,Medium,2.4,411,17.55,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note C,11.3,Food Pairing B,Glassware A,Chilled,Sweet,Full,2.2,284,94.67,750 mL,Wine description
+Wine C,Country C,Brand B,Category B,Note C,12.7,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,1.6,130,11.93,750 mL,Wine description
+Wine A,Country A,Brand B,Category B,Note A,10.1,Food Pairing A,Glassware B,Chilled,Sweet,Light,2.3,79,34.51,750 mL,Wine description
+Wine B,Country C,Brand B,Category A,Note B,14.8,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,3.2,239,19.34,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note A,11.7,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,2.2,243,19.98,750 mL,Wine description
+Wine A,Country C,Brand B,Category A,Note C,12.5,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,4.7,63,54.15,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note A,10.3,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,4.9,168,50.89,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note A,14.1,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Full,3.4,257,65.9,750 mL,Wine description
+Wine D,Country A,Brand A,Category C,Note A,14.6,Food Pairing C,Glassware B,Room Temperature,Dry,Light,3.1,492,80.01,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note A,13.8,Food Pairing B,Glassware A,Chilled,Sweet,Full,2.6,403,62.94,750 mL,Wine description
+Wine A,Country C,Brand C,Category B,Note B,10.6,Food Pairing A,Glassware C,Chilled,Sweet,Full,2.1,448,51.14,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note C,12.8,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,3.7,46,19.67,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note A,12.7,Food Pairing B,Glassware C,Chilled,Sweet,Full,2.9,64,63.12,750 mL,Wine description
+Wine A,Country B,Brand C,Category B,Note C,10.2,Food Pairing C,Glassware C,Chilled,Dry,Light,1.6,467,17.86,750 mL,Wine description
+Wine D,Country C,Brand C,Category B,Note B,10.4,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,2.9,291,31.51,750 mL,Wine description
+Wine B,Country C,Brand C,Category B,Note C,12.8,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,1.2,69,90.69,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note C,12.0,Food Pairing A,Glassware A,Cellar Temperature,Dry,Medium,1.0,151,30.51,750 mL,Wine description
+Wine D,Country A,Brand A,Category A,Note B,13.2,Food Pairing A,Glassware A,Chilled,Sweet,Medium,1.6,118,88.55,750 mL,Wine description
+Wine E,Country C,Brand B,Category B,Note B,13.1,Food Pairing C,Glassware A,Chilled,Dry,Full,4.4,205,97.9,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note C,13.3,Food Pairing C,Glassware A,Cellar Temperature,Dry,Medium,1.4,183,17.72,750 mL,Wine description
+Wine B,Country B,Brand B,Category C,Note C,14.7,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Medium,1.2,67,35.1,750 mL,Wine description
+Wine A,Country B,Brand C,Category A,Note B,13.9,Food Pairing A,Glassware A,Chilled,Sweet,Full,2.5,390,10.34,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note A,11.0,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,1.6,471,34.23,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note A,13.5,Food Pairing A,Glassware C,Chilled,Dry,Medium,4.7,140,94.18,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note A,12.8,Food Pairing A,Glassware A,Room Temperature,Sweet,Light,2.0,241,14.36,750 mL,Wine description
+Wine C,Country B,Brand A,Category A,Note B,14.3,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Medium,3.5,138,83.81,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note B,10.8,Food Pairing C,Glassware A,Chilled,Sweet,Full,1.4,243,27.47,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note B,12.5,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Medium,4.1,151,33.99,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note C,12.8,Food Pairing B,Glassware C,Chilled,Sweet,Light,4.4,162,48.84,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note A,10.6,Food Pairing A,Glassware B,Chilled,Dry,Full,3.6,184,43.33,750 mL,Wine description
+Wine D,Country B,Brand A,Category B,Note B,11.3,Food Pairing A,Glassware A,Room Temperature,Dry,Full,3.2,56,90.13,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note C,11.5,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Full,3.8,226,63.98,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note B,14.8,Food Pairing A,Glassware B,Chilled,Dry,Full,3.6,485,19.71,750 mL,Wine description
+Wine C,Country B,Brand C,Category A,Note A,14.8,Food Pairing B,Glassware C,Room Temperature,Dry,Light,1.2,109,43.78,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note B,14.0,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,2.0,429,46.11,750 mL,Wine description
+Wine B,Country A,Brand B,Category C,Note A,10.1,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Light,3.6,376,43.32,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note A,14.8,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,2.3,211,91.91,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note A,13.3,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,3.7,425,85.38,750 mL,Wine description
+Wine B,Country C,Brand C,Category B,Note C,13.6,Food Pairing A,Glassware B,Chilled,Dry,Medium,3.1,395,25.67,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note A,10.3,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,1.1,143,12.52,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note C,14.9,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,2.7,341,11.47,750 mL,Wine description
+Wine B,Country C,Brand C,Category A,Note A,13.4,Food Pairing B,Glassware A,Chilled,Sweet,Light,2.7,18,42.81,750 mL,Wine description
+Wine C,Country B,Brand A,Category B,Note B,11.6,Food Pairing A,Glassware B,Chilled,Sweet,Medium,2.6,222,64.76,750 mL,Wine description
+Wine D,Country C,Brand A,Category B,Note C,14.2,Food Pairing C,Glassware A,Room Temperature,Sweet,Medium,3.7,112,50.95,750 mL,Wine description
+Wine C,Country A,Brand A,Category A,Note A,13.2,Food Pairing C,Glassware C,Room Temperature,Dry,Full,2.1,61,95.5,750 mL,Wine description
+Wine D,Country C,Brand B,Category A,Note A,10.3,Food Pairing C,Glassware B,Chilled,Dry,Full,3.9,218,70.57,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note B,12.4,Food Pairing C,Glassware C,Room Temperature,Sweet,Full,1.3,162,18.51,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note C,15.0,Food Pairing C,Glassware C,Chilled,Sweet,Medium,4.5,457,36.31,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note A,11.8,Food Pairing A,Glassware A,Cellar Temperature,Dry,Light,4.0,166,48.09,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note A,11.7,Food Pairing C,Glassware A,Chilled,Sweet,Medium,1.4,178,69.31,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note A,10.3,Food Pairing B,Glassware B,Chilled,Dry,Medium,2.6,43,49.97,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note A,12.9,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Full,1.9,206,52.67,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note C,13.1,Food Pairing A,Glassware B,Chilled,Sweet,Full,3.6,484,63.05,750 mL,Wine description
+Wine A,Country A,Brand C,Category A,Note B,10.3,Food Pairing A,Glassware A,Chilled,Dry,Medium,4.8,304,24.99,750 mL,Wine description
+Wine A,Country C,Brand B,Category A,Note B,13.1,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Full,4.6,473,76.72,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note A,14.6,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Medium,3.6,42,84.11,750 mL,Wine description
+Wine A,Country B,Brand C,Category A,Note B,13.7,Food Pairing A,Glassware B,Room Temperature,Dry,Light,4.6,53,18.38,750 mL,Wine description
+Wine C,Country A,Brand C,Category A,Note C,10.7,Food Pairing A,Glassware C,Cellar Temperature,Dry,Light,5.0,319,27.23,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note B,14.7,Food Pairing B,Glassware B,Room Temperature,Sweet,Medium,2.6,434,15.26,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note C,10.1,Food Pairing B,Glassware A,Chilled,Sweet,Medium,1.4,28,28.94,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note C,11.1,Food Pairing B,Glassware A,Room Temperature,Dry,Light,3.1,320,21.02,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note C,11.7,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,2.6,381,56.03,750 mL,Wine description
+Wine A,Country B,Brand C,Category A,Note A,11.9,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,3.6,41,48.18,750 mL,Wine description
+Wine A,Country A,Brand C,Category A,Note A,13.0,Food Pairing A,Glassware B,Chilled,Dry,Full,3.2,42,85.7,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note B,13.5,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Medium,2.6,376,19.82,750 mL,Wine description
+Wine D,Country C,Brand A,Category C,Note C,13.8,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Light,4.5,433,80.94,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note C,11.0,Food Pairing B,Glassware B,Room Temperature,Sweet,Light,1.3,104,57.69,750 mL,Wine description
+Wine C,Country A,Brand A,Category A,Note C,11.7,Food Pairing C,Glassware C,Chilled,Dry,Medium,3.8,88,64.16,750 mL,Wine description
+Wine C,Country C,Brand A,Category A,Note B,10.5,Food Pairing C,Glassware B,Chilled,Dry,Medium,4.4,415,20.1,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note C,12.8,Food Pairing B,Glassware C,Chilled,Sweet,Full,4.2,474,80.0,750 mL,Wine description
+Wine A,Country B,Brand A,Category C,Note A,11.9,Food Pairing C,Glassware A,Room Temperature,Sweet,Full,3.0,302,32.11,750 mL,Wine description
+Wine D,Country A,Brand C,Category A,Note B,13.2,Food Pairing A,Glassware B,Chilled,Sweet,Full,1.9,290,18.38,750 mL,Wine description
+Wine C,Country B,Brand B,Category A,Note A,13.9,Food Pairing C,Glassware A,Chilled,Dry,Light,4.9,371,99.96,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note A,11.3,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,3.5,230,78.0,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note B,12.7,Food Pairing C,Glassware C,Room Temperature,Sweet,Medium,4.2,252,76.86,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note B,12.4,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,1.8,432,90.02,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note A,11.5,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,4.5,381,27.35,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note C,12.0,Food Pairing C,Glassware C,Room Temperature,Dry,Full,4.6,137,79.86,750 mL,Wine description
+Wine A,Country A,Brand A,Category A,Note C,10.6,Food Pairing C,Glassware B,Cellar Temperature,Dry,Full,1.2,11,72.85,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note A,12.3,Food Pairing A,Glassware B,Chilled,Sweet,Full,3.2,271,72.97,750 mL,Wine description
+Wine C,Country A,Brand B,Category A,Note A,11.9,Food Pairing C,Glassware C,Room Temperature,Sweet,Medium,2.3,280,48.68,750 mL,Wine description
+Wine C,Country A,Brand A,Category C,Note A,13.4,Food Pairing B,Glassware C,Chilled,Sweet,Full,3.4,441,46.43,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note A,13.4,Food Pairing A,Glassware B,Chilled,Dry,Full,4.9,330,75.04,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note C,12.3,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,2.5,104,60.54,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note C,12.7,Food Pairing A,Glassware C,Room Temperature,Dry,Medium,3.2,475,65.84,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note C,11.8,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,2.1,176,37.93,750 mL,Wine description
+Wine D,Country B,Brand A,Category B,Note B,12.8,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,3.7,216,43.25,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note B,12.5,Food Pairing B,Glassware C,Chilled,Dry,Full,4.6,100,35.89,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note B,10.1,Food Pairing C,Glassware A,Room Temperature,Dry,Full,3.4,166,12.7,750 mL,Wine description
+Wine C,Country B,Brand C,Category B,Note C,13.5,Food Pairing A,Glassware B,Chilled,Dry,Light,2.6,58,96.42,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note B,11.5,Food Pairing A,Glassware B,Room Temperature,Dry,Full,4.0,347,97.06,750 mL,Wine description
+Wine E,Country A,Brand B,Category C,Note B,12.5,Food Pairing C,Glassware C,Chilled,Dry,Light,3.0,295,89.53,750 mL,Wine description
+Wine C,Country A,Brand B,Category A,Note A,10.3,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,1.4,61,89.76,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note A,10.2,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Light,4.9,190,70.74,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note A,10.4,Food Pairing C,Glassware C,Chilled,Dry,Full,1.3,95,67.25,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note A,14.6,Food Pairing C,Glassware C,Chilled,Sweet,Full,3.6,90,27.34,750 mL,Wine description
+Wine A,Country A,Brand B,Category B,Note A,13.1,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Full,4.9,213,74.84,750 mL,Wine description
+Wine A,Country C,Brand B,Category C,Note B,12.0,Food Pairing A,Glassware C,Room Temperature,Dry,Full,1.2,309,22.39,750 mL,Wine description
+Wine D,Country A,Brand C,Category C,Note B,12.6,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Medium,1.6,425,51.86,750 mL,Wine description
+Wine B,Country B,Brand C,Category C,Note C,13.6,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,1.8,206,33.69,750 mL,Wine description
+Wine C,Country B,Brand B,Category C,Note B,11.5,Food Pairing A,Glassware A,Chilled,Sweet,Medium,2.2,367,82.4,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note C,12.3,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,4.9,234,37.2,750 mL,Wine description
+Wine E,Country C,Brand A,Category A,Note A,13.4,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,4.0,194,44.82,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note B,12.1,Food Pairing C,Glassware C,Chilled,Dry,Light,3.0,243,19.57,750 mL,Wine description
+Wine C,Country C,Brand B,Category B,Note C,14.1,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,4.3,183,98.42,750 mL,Wine description
+Wine A,Country A,Brand B,Category B,Note C,12.5,Food Pairing A,Glassware A,Chilled,Dry,Light,3.2,194,86.49,750 mL,Wine description
+Wine C,Country A,Brand B,Category C,Note A,14.7,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,4.9,376,81.87,750 mL,Wine description
+Wine A,Country B,Brand C,Category C,Note C,11.8,Food Pairing A,Glassware C,Chilled,Sweet,Light,4.1,140,19.74,750 mL,Wine description
+Wine C,Country C,Brand C,Category A,Note B,10.1,Food Pairing C,Glassware A,Room Temperature,Dry,Light,3.0,76,41.89,750 mL,Wine description
+Wine B,Country C,Brand C,Category A,Note B,13.3,Food Pairing A,Glassware C,Room Temperature,Dry,Medium,1.2,225,10.25,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note B,13.1,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,1.5,198,93.81,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note A,12.2,Food Pairing A,Glassware C,Chilled,Sweet,Full,2.5,243,51.61,750 mL,Wine description
+Wine A,Country B,Brand B,Category C,Note B,10.4,Food Pairing C,Glassware C,Room Temperature,Sweet,Full,3.5,120,48.85,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note B,12.9,Food Pairing C,Glassware B,Chilled,Sweet,Light,4.7,424,82.99,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note C,11.1,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,3.9,43,84.83,750 mL,Wine description
+Wine A,Country C,Brand B,Category C,Note C,11.3,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,2.3,278,59.26,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note C,13.1,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,2.3,43,20.76,750 mL,Wine description
+Wine E,Country C,Brand B,Category B,Note A,10.2,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,4.8,336,91.13,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note A,11.5,Food Pairing A,Glassware B,Chilled,Sweet,Medium,2.0,427,62.85,750 mL,Wine description
+Wine C,Country A,Brand A,Category B,Note A,12.4,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,1.8,178,55.76,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note A,13.6,Food Pairing C,Glassware C,Cellar Temperature,Dry,Full,4.4,367,63.76,750 mL,Wine description
+Wine B,Country C,Brand B,Category A,Note C,11.5,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,2.3,337,84.85,750 mL,Wine description
+Wine A,Country C,Brand A,Category B,Note B,12.7,Food Pairing A,Glassware A,Room Temperature,Sweet,Light,3.0,241,82.14,750 mL,Wine description
+Wine D,Country A,Brand C,Category B,Note A,12.4,Food Pairing A,Glassware A,Room Temperature,Dry,Full,2.8,248,64.59,750 mL,Wine description
+Wine E,Country B,Brand A,Category B,Note C,10.3,Food Pairing C,Glassware B,Room Temperature,Sweet,Light,2.1,201,81.52,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note B,13.0,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,4.0,125,12.55,750 mL,Wine description
+Wine C,Country A,Brand A,Category C,Note C,13.2,Food Pairing C,Glassware B,Room Temperature,Dry,Light,4.1,141,30.17,750 mL,Wine description
+Wine C,Country A,Brand B,Category B,Note B,13.7,Food Pairing A,Glassware B,Chilled,Sweet,Medium,3.4,162,96.08,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note C,12.1,Food Pairing A,Glassware A,Room Temperature,Dry,Medium,3.8,178,78.33,750 mL,Wine description
+Wine C,Country A,Brand B,Category B,Note B,12.2,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,1.4,385,73.64,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note C,11.2,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,4.8,110,10.57,750 mL,Wine description
+Wine C,Country B,Brand A,Category C,Note B,12.1,Food Pairing B,Glassware A,Chilled,Sweet,Medium,3.4,217,20.23,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note C,13.0,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Full,3.7,75,26.69,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note C,13.3,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,1.4,52,29.13,750 mL,Wine description
+Wine B,Country C,Brand B,Category A,Note A,11.0,Food Pairing B,Glassware C,Room Temperature,Sweet,Light,2.1,482,10.77,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note B,14.4,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Full,1.7,151,10.19,750 mL,Wine description
+Wine E,Country C,Brand B,Category A,Note B,13.4,Food Pairing B,Glassware C,Cellar Temperature,Dry,Light,1.4,111,65.54,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note B,12.2,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,2.7,431,84.79,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note C,14.6,Food Pairing A,Glassware A,Chilled,Dry,Light,2.6,444,24.71,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note A,14.9,Food Pairing A,Glassware A,Chilled,Dry,Light,3.3,265,81.76,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,12.3,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,3.4,75,39.46,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note A,12.2,Food Pairing C,Glassware C,Room Temperature,Dry,Full,1.9,333,81.18,750 mL,Wine description
+Wine D,Country B,Brand A,Category B,Note A,11.8,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,3.5,251,50.88,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note A,10.9,Food Pairing A,Glassware C,Cellar Temperature,Dry,Light,4.5,222,23.43,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,12.5,Food Pairing A,Glassware A,Chilled,Dry,Medium,1.0,294,28.31,750 mL,Wine description
+Wine B,Country C,Brand B,Category C,Note A,13.2,Food Pairing A,Glassware B,Chilled,Dry,Light,4.6,426,83.44,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note B,14.8,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,1.5,128,81.63,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note C,14.1,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Light,3.3,474,78.74,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note B,13.7,Food Pairing B,Glassware C,Chilled,Sweet,Medium,1.4,264,63.85,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note C,10.1,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,4.2,224,30.81,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note A,13.2,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,1.1,464,24.34,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note B,11.7,Food Pairing C,Glassware B,Room Temperature,Sweet,Medium,4.5,463,74.37,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note C,12.3,Food Pairing B,Glassware A,Room Temperature,Sweet,Light,1.6,193,75.68,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note B,13.2,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,2.3,485,72.51,750 mL,Wine description
+Wine A,Country B,Brand C,Category C,Note A,10.3,Food Pairing C,Glassware A,Chilled,Sweet,Light,4.7,78,99.15,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note A,10.2,Food Pairing B,Glassware C,Chilled,Sweet,Medium,3.8,36,19.75,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note A,14.2,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Full,2.3,296,25.72,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note A,11.3,Food Pairing B,Glassware C,Chilled,Dry,Medium,2.1,83,26.15,750 mL,Wine description
+Wine E,Country A,Brand C,Category B,Note B,13.3,Food Pairing B,Glassware B,Chilled,Sweet,Light,3.6,302,88.9,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note C,13.8,Food Pairing B,Glassware B,Chilled,Dry,Medium,3.3,415,69.35,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,11.0,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,4.0,469,67.32,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note A,13.4,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,4.8,478,80.4,750 mL,Wine description
+Wine A,Country A,Brand B,Category C,Note C,10.3,Food Pairing C,Glassware B,Chilled,Dry,Light,2.4,461,32.7,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note C,10.6,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Full,4.4,162,98.87,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note A,10.2,Food Pairing A,Glassware B,Chilled,Dry,Medium,4.5,381,87.9,750 mL,Wine description
+Wine A,Country B,Brand B,Category C,Note B,14.3,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,1.6,114,89.56,750 mL,Wine description
+Wine D,Country C,Brand C,Category C,Note A,13.4,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Medium,1.6,71,46.98,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note C,13.8,Food Pairing B,Glassware A,Chilled,Sweet,Medium,3.1,144,89.35,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note C,12.9,Food Pairing A,Glassware A,Room Temperature,Sweet,Light,4.1,303,99.31,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note C,14.7,Food Pairing C,Glassware C,Cellar Temperature,Dry,Full,1.7,67,74.54,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note C,11.8,Food Pairing A,Glassware C,Room Temperature,Dry,Full,2.3,475,48.59,750 mL,Wine description
+Wine C,Country B,Brand B,Category A,Note B,10.3,Food Pairing C,Glassware A,Chilled,Sweet,Medium,2.7,432,41.48,750 mL,Wine description
+Wine A,Country C,Brand A,Category B,Note B,12.7,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Light,4.4,216,93.45,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note B,14.3,Food Pairing B,Glassware C,Chilled,Dry,Full,4.5,417,96.8,750 mL,Wine description
+Wine D,Country C,Brand B,Category C,Note B,13.0,Food Pairing A,Glassware A,Cellar Temperature,Dry,Full,3.8,83,95.25,750 mL,Wine description
+Wine D,Country C,Brand B,Category B,Note C,10.8,Food Pairing C,Glassware A,Room Temperature,Dry,Light,2.8,23,24.99,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note C,10.8,Food Pairing C,Glassware C,Chilled,Sweet,Full,4.1,464,40.54,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note B,12.4,Food Pairing B,Glassware C,Cellar Temperature,Dry,Light,1.8,191,69.22,750 mL,Wine description
+Wine C,Country B,Brand B,Category B,Note A,10.0,Food Pairing C,Glassware B,Room Temperature,Sweet,Medium,3.4,458,44.99,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note B,11.1,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,3.6,136,64.61,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note C,14.4,Food Pairing C,Glassware A,Cellar Temperature,Dry,Full,4.9,405,34.28,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note B,13.5,Food Pairing A,Glassware C,Chilled,Dry,Medium,3.8,265,88.84,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note A,14.5,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,4.6,146,57.27,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note B,10.9,Food Pairing A,Glassware A,Room Temperature,Dry,Medium,3.0,240,86.85,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note B,12.8,Food Pairing C,Glassware C,Chilled,Dry,Light,2.3,47,40.19,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note A,10.3,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,2.0,44,85.46,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note C,13.5,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Medium,3.0,144,68.25,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note B,10.8,Food Pairing C,Glassware A,Room Temperature,Sweet,Full,1.6,396,88.8,750 mL,Wine description
+Wine C,Country A,Brand B,Category C,Note A,10.5,Food Pairing A,Glassware C,Chilled,Dry,Light,1.3,160,61.14,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note B,14.0,Food Pairing C,Glassware A,Room Temperature,Dry,Full,1.1,326,17.95,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note A,12.3,Food Pairing A,Glassware C,Chilled,Dry,Light,4.8,125,75.91,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note A,12.0,Food Pairing B,Glassware A,Chilled,Sweet,Full,1.3,364,34.29,750 mL,Wine description
+Wine C,Country B,Brand B,Category B,Note A,14.3,Food Pairing A,Glassware C,Cellar Temperature,Dry,Full,3.0,51,75.21,750 mL,Wine description
+Wine D,Country C,Brand B,Category A,Note C,14.3,Food Pairing A,Glassware A,Chilled,Dry,Medium,2.3,327,66.35,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note B,12.6,Food Pairing A,Glassware B,Room Temperature,Dry,Medium,1.6,480,83.01,750 mL,Wine description
+Wine D,Country B,Brand B,Category B,Note A,13.1,Food Pairing C,Glassware A,Room Temperature,Dry,Light,2.5,460,26.68,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note C,11.3,Food Pairing C,Glassware C,Chilled,Sweet,Light,4.5,382,62.46,750 mL,Wine description
+Wine D,Country A,Brand B,Category A,Note B,10.9,Food Pairing C,Glassware C,Cellar Temperature,Dry,Medium,3.6,166,31.02,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note C,10.9,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Light,1.6,86,70.38,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note C,12.1,Food Pairing C,Glassware A,Room Temperature,Sweet,Light,3.9,446,69.29,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note C,14.4,Food Pairing B,Glassware B,Room Temperature,Dry,Light,1.1,118,63.21,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note A,11.0,Food Pairing C,Glassware B,Room Temperature,Sweet,Light,3.1,387,51.77,750 mL,Wine description
+Wine D,Country C,Brand C,Category B,Note C,12.6,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,2.7,429,29.09,750 mL,Wine description
+Wine B,Country B,Brand C,Category A,Note C,13.4,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,1.9,70,50.89,750 mL,Wine description
+Wine A,Country A,Brand C,Category B,Note A,10.1,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,2.9,106,87.18,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note B,11.6,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,3.9,96,87.62,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note B,14.3,Food Pairing A,Glassware B,Room Temperature,Dry,Full,4.8,303,90.41,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note C,10.4,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Medium,4.6,152,94.81,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note C,13.7,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.6,488,11.6,750 mL,Wine description
+Wine D,Country A,Brand C,Category B,Note B,12.5,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Light,2.8,82,80.96,750 mL,Wine description
+Wine A,Country B,Brand C,Category C,Note C,12.2,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,4.8,65,40.99,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note A,12.7,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,2.5,356,99.76,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note C,11.7,Food Pairing C,Glassware A,Room Temperature,Sweet,Full,3.8,211,79.38,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note A,15.0,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,3.3,115,80.48,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note A,14.9,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,4.4,97,75.81,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note A,13.1,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,2.0,321,46.37,750 mL,Wine description
+Wine D,Country A,Brand C,Category B,Note C,14.0,Food Pairing B,Glassware C,Room Temperature,Sweet,Full,3.7,106,48.41,750 mL,Wine description
+Wine E,Country A,Brand C,Category C,Note C,14.2,Food Pairing C,Glassware A,Chilled,Dry,Medium,2.1,142,80.63,750 mL,Wine description
+Wine D,Country C,Brand C,Category C,Note C,10.4,Food Pairing C,Glassware C,Cellar Temperature,Dry,Medium,2.9,406,42.13,750 mL,Wine description
+Wine B,Country A,Brand A,Category B,Note A,12.4,Food Pairing C,Glassware C,Room Temperature,Sweet,Medium,2.7,459,29.2,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note C,14.5,Food Pairing C,Glassware B,Room Temperature,Dry,Light,4.5,369,41.74,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note B,13.3,Food Pairing C,Glassware C,Chilled,Dry,Light,3.5,286,56.54,750 mL,Wine description
+Wine C,Country A,Brand A,Category C,Note C,13.4,Food Pairing A,Glassware B,Chilled,Sweet,Full,4.8,358,83.67,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note C,12.2,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Medium,1.0,404,27.18,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note B,14.2,Food Pairing A,Glassware C,Cellar Temperature,Dry,Light,4.6,218,45.78,750 mL,Wine description
+Wine C,Country C,Brand A,Category A,Note B,14.7,Food Pairing A,Glassware B,Room Temperature,Dry,Light,3.0,469,84.22,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note A,14.9,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,5.0,48,55.4,750 mL,Wine description
+Wine D,Country B,Brand C,Category B,Note A,10.5,Food Pairing A,Glassware C,Chilled,Dry,Full,2.6,438,75.97,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note C,14.6,Food Pairing C,Glassware A,Cellar Temperature,Dry,Full,3.0,293,25.81,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note C,13.4,Food Pairing B,Glassware B,Room Temperature,Sweet,Medium,4.8,92,39.78,750 mL,Wine description
+Wine A,Country B,Brand B,Category C,Note C,14.1,Food Pairing C,Glassware A,Room Temperature,Dry,Full,3.7,222,74.92,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note C,10.8,Food Pairing B,Glassware C,Room Temperature,Sweet,Full,1.8,20,70.28,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note C,12.3,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,3.0,187,18.48,750 mL,Wine description
+Wine A,Country C,Brand C,Category A,Note A,14.0,Food Pairing B,Glassware C,Cellar Temperature,Dry,Light,2.1,78,24.72,750 mL,Wine description
+Wine C,Country A,Brand C,Category B,Note B,13.6,Food Pairing A,Glassware B,Chilled,Dry,Light,1.7,497,71.65,750 mL,Wine description
+Wine C,Country B,Brand C,Category B,Note B,13.2,Food Pairing B,Glassware C,Chilled,Dry,Medium,2.0,299,41.49,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note B,11.6,Food Pairing C,Glassware A,Cellar Temperature,Dry,Medium,1.6,116,91.6,750 mL,Wine description
+Wine B,Country A,Brand A,Category B,Note B,13.6,Food Pairing B,Glassware A,Chilled,Dry,Full,4.7,383,32.86,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note A,13.3,Food Pairing A,Glassware C,Chilled,Sweet,Medium,3.1,226,40.7,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note B,13.7,Food Pairing B,Glassware A,Chilled,Dry,Full,2.8,221,70.32,750 mL,Wine description
+Wine D,Country B,Brand B,Category A,Note C,14.0,Food Pairing C,Glassware B,Cellar Temperature,Dry,Light,3.3,286,29.35,750 mL,Wine description
+Wine D,Country C,Brand B,Category A,Note A,13.1,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,3.4,424,40.14,750 mL,Wine description
+Wine A,Country A,Brand C,Category B,Note C,11.5,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,2.0,144,95.8,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note C,12.9,Food Pairing C,Glassware C,Chilled,Sweet,Light,3.2,232,26.96,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note C,13.9,Food Pairing C,Glassware C,Chilled,Sweet,Medium,4.8,306,91.06,750 mL,Wine description
+Wine D,Country C,Brand C,Category C,Note A,10.4,Food Pairing C,Glassware B,Chilled,Dry,Full,2.6,317,49.92,750 mL,Wine description
+Wine B,Country A,Brand C,Category A,Note B,10.9,Food Pairing B,Glassware C,Room Temperature,Sweet,Light,4.8,49,69.67,750 mL,Wine description
+Wine B,Country C,Brand C,Category C,Note A,13.0,Food Pairing B,Glassware B,Chilled,Sweet,Medium,3.8,181,19.08,750 mL,Wine description
+Wine A,Country C,Brand C,Category A,Note C,10.4,Food Pairing B,Glassware C,Chilled,Dry,Full,2.8,296,53.2,750 mL,Wine description
+Wine D,Country B,Brand B,Category A,Note B,14.7,Food Pairing C,Glassware A,Room Temperature,Dry,Light,4.9,329,52.46,750 mL,Wine description
+Wine E,Country B,Brand A,Category A,Note B,12.1,Food Pairing A,Glassware C,Chilled,Sweet,Full,3.9,241,82.9,750 mL,Wine description
+Wine C,Country A,Brand A,Category A,Note C,10.4,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,1.9,257,29.85,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note C,10.0,Food Pairing C,Glassware A,Chilled,Sweet,Light,1.1,136,76.6,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note B,12.1,Food Pairing B,Glassware A,Room Temperature,Dry,Full,2.9,340,80.22,750 mL,Wine description
+Wine E,Country B,Brand A,Category A,Note C,13.9,Food Pairing B,Glassware B,Chilled,Dry,Full,3.1,487,25.82,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note A,12.3,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,3.0,366,39.69,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note B,11.0,Food Pairing B,Glassware C,Chilled,Dry,Full,3.2,212,60.25,750 mL,Wine description
+Wine D,Country B,Brand C,Category B,Note C,10.0,Food Pairing A,Glassware B,Cellar Temperature,Dry,Medium,2.8,451,77.71,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note C,12.9,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.8,211,25.02,750 mL,Wine description
+Wine E,Country B,Brand A,Category B,Note B,13.7,Food Pairing C,Glassware B,Chilled,Dry,Medium,2.7,452,51.95,750 mL,Wine description
+Wine E,Country C,Brand A,Category A,Note C,13.5,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,1.2,189,28.68,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note A,11.7,Food Pairing C,Glassware C,Room Temperature,Dry,Light,2.8,133,72.91,750 mL,Wine description
+Wine B,Country B,Brand C,Category C,Note A,14.9,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Medium,4.1,243,79.4,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note A,12.0,Food Pairing A,Glassware A,Chilled,Dry,Full,1.4,393,90.98,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note C,10.6,Food Pairing B,Glassware B,Chilled,Dry,Full,3.3,282,78.07,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note B,12.0,Food Pairing C,Glassware B,Chilled,Sweet,Full,2.3,284,73.87,750 mL,Wine description
+Wine E,Country A,Brand B,Category C,Note B,13.7,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Full,3.8,310,77.2,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note A,10.1,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Medium,4.1,123,64.52,750 mL,Wine description
+Wine E,Country C,Brand B,Category A,Note C,13.2,Food Pairing C,Glassware B,Chilled,Sweet,Medium,4.8,66,90.52,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note B,12.7,Food Pairing A,Glassware C,Chilled,Dry,Medium,1.7,44,32.5,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note C,10.6,Food Pairing C,Glassware A,Room Temperature,Dry,Full,4.0,245,45.2,750 mL,Wine description
+Wine C,Country B,Brand B,Category B,Note C,14.1,Food Pairing A,Glassware C,Chilled,Dry,Light,2.3,185,22.94,750 mL,Wine description
+Wine C,Country A,Brand C,Category B,Note A,13.3,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,4.7,494,33.98,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note B,11.7,Food Pairing C,Glassware C,Chilled,Sweet,Light,4.7,117,67.41,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note B,11.6,Food Pairing B,Glassware A,Chilled,Sweet,Light,1.9,425,45.87,750 mL,Wine description
+Wine D,Country C,Brand B,Category A,Note A,14.6,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Full,2.3,64,84.57,750 mL,Wine description
+Wine D,Country C,Brand C,Category B,Note A,10.2,Food Pairing A,Glassware A,Chilled,Sweet,Light,2.2,75,49.51,750 mL,Wine description
+Wine B,Country B,Brand C,Category C,Note A,10.3,Food Pairing B,Glassware B,Room Temperature,Dry,Light,3.6,374,95.49,750 mL,Wine description
+Wine D,Country B,Brand B,Category B,Note B,11.3,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,4.3,133,44.8,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note C,12.2,Food Pairing A,Glassware B,Chilled,Dry,Full,2.6,74,17.93,750 mL,Wine description
+Wine B,Country C,Brand C,Category A,Note B,14.3,Food Pairing C,Glassware B,Room Temperature,Dry,Light,4.5,243,14.72,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note A,10.9,Food Pairing C,Glassware A,Chilled,Sweet,Full,3.9,469,93.69,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note C,11.5,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,4.3,231,85.33,750 mL,Wine description
+Wine C,Country A,Brand B,Category C,Note C,11.7,Food Pairing B,Glassware B,Chilled,Dry,Medium,4.4,32,31.92,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,10.5,Food Pairing C,Glassware A,Chilled,Dry,Light,2.3,342,91.66,750 mL,Wine description
+Wine C,Country A,Brand A,Category C,Note C,14.4,Food Pairing C,Glassware A,Chilled,Sweet,Medium,2.8,78,77.22,750 mL,Wine description
+Wine D,Country A,Brand C,Category C,Note C,14.5,Food Pairing C,Glassware A,Chilled,Sweet,Light,2.3,434,90.2,750 mL,Wine description
+Wine A,Country A,Brand C,Category B,Note B,14.0,Food Pairing A,Glassware B,Chilled,Dry,Full,3.6,22,28.45,750 mL,Wine description
+Wine D,Country C,Brand A,Category A,Note B,13.4,Food Pairing B,Glassware B,Chilled,Sweet,Full,4.7,147,20.23,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note A,12.6,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Light,3.4,442,18.85,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note B,12.1,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Full,3.0,24,71.96,750 mL,Wine description
+Wine E,Country B,Brand A,Category A,Note B,10.5,Food Pairing A,Glassware B,Cellar Temperature,Dry,Full,1.9,490,28.21,750 mL,Wine description
+Wine D,Country A,Brand A,Category A,Note B,11.1,Food Pairing A,Glassware C,Chilled,Sweet,Medium,4.0,242,79.06,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note A,14.6,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,1.1,15,10.07,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note C,13.2,Food Pairing A,Glassware A,Chilled,Dry,Light,4.2,86,89.37,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note A,14.9,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,3.9,238,78.51,750 mL,Wine description
+Wine D,Country C,Brand A,Category C,Note A,12.1,Food Pairing B,Glassware B,Chilled,Sweet,Full,3.4,353,33.18,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note B,10.3,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,1.7,491,69.22,750 mL,Wine description
+Wine E,Country A,Brand C,Category B,Note B,14.6,Food Pairing C,Glassware C,Chilled,Dry,Full,4.5,208,32.07,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note A,13.2,Food Pairing A,Glassware B,Cellar Temperature,Dry,Full,4.4,369,92.54,750 mL,Wine description
+Wine C,Country C,Brand A,Category A,Note C,11.6,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Medium,4.8,299,21.89,750 mL,Wine description
+Wine A,Country C,Brand A,Category A,Note C,13.3,Food Pairing C,Glassware C,Chilled,Sweet,Light,4.3,228,30.99,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note C,11.1,Food Pairing C,Glassware A,Room Temperature,Sweet,Medium,1.4,29,99.89,750 mL,Wine description
+Wine A,Country C,Brand C,Category B,Note B,13.3,Food Pairing C,Glassware A,Chilled,Sweet,Full,3.6,209,45.62,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,14.6,Food Pairing A,Glassware C,Room Temperature,Dry,Full,3.0,30,40.47,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note A,10.4,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Light,4.9,152,45.96,750 mL,Wine description
+Wine D,Country C,Brand C,Category A,Note B,12.1,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Medium,2.1,266,83.52,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note A,13.5,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,2.3,187,14.18,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note A,12.1,Food Pairing C,Glassware B,Cellar Temperature,Dry,Full,1.6,134,88.21,750 mL,Wine description
+Wine C,Country A,Brand B,Category B,Note A,14.1,Food Pairing B,Glassware C,Chilled,Dry,Light,2.0,450,49.37,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note A,14.2,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,1.6,284,35.64,750 mL,Wine description
+Wine B,Country B,Brand B,Category B,Note C,11.9,Food Pairing B,Glassware B,Chilled,Sweet,Full,4.1,131,13.68,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note B,10.7,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Full,1.8,413,60.57,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note B,14.8,Food Pairing C,Glassware B,Room Temperature,Sweet,Light,1.9,64,23.93,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note A,15.0,Food Pairing C,Glassware A,Room Temperature,Sweet,Medium,4.6,253,29.04,750 mL,Wine description
+Wine A,Country B,Brand C,Category A,Note B,12.0,Food Pairing C,Glassware A,Room Temperature,Sweet,Light,3.3,143,61.54,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note A,11.0,Food Pairing B,Glassware B,Chilled,Dry,Full,4.6,402,74.57,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note B,11.2,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Light,2.6,466,89.11,750 mL,Wine description
+Wine B,Country C,Brand A,Category A,Note B,14.1,Food Pairing A,Glassware A,Chilled,Sweet,Light,4.2,217,52.06,750 mL,Wine description
+Wine B,Country B,Brand B,Category C,Note A,13.2,Food Pairing A,Glassware A,Chilled,Dry,Medium,3.2,440,65.52,750 mL,Wine description
+Wine E,Country A,Brand C,Category C,Note A,10.3,Food Pairing C,Glassware C,Chilled,Dry,Medium,3.9,35,30.43,750 mL,Wine description
+Wine E,Country A,Brand B,Category C,Note C,12.9,Food Pairing A,Glassware A,Chilled,Sweet,Full,2.4,110,36.26,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note B,14.5,Food Pairing A,Glassware B,Cellar Temperature,Dry,Medium,2.9,399,20.7,750 mL,Wine description
+Wine D,Country A,Brand B,Category C,Note B,14.5,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,3.0,306,18.49,750 mL,Wine description
+Wine E,Country A,Brand C,Category B,Note C,14.8,Food Pairing C,Glassware C,Cellar Temperature,Dry,Light,4.9,371,30.1,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note B,10.3,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,1.5,313,93.19,750 mL,Wine description
+Wine A,Country B,Brand B,Category A,Note C,10.1,Food Pairing C,Glassware B,Chilled,Dry,Full,2.3,193,20.33,750 mL,Wine description
+Wine E,Country A,Brand C,Category B,Note B,10.3,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,1.5,69,99.41,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note A,13.4,Food Pairing C,Glassware B,Chilled,Dry,Full,3.2,322,32.33,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note C,10.4,Food Pairing C,Glassware A,Room Temperature,Sweet,Light,5.0,209,79.13,750 mL,Wine description
+Wine A,Country A,Brand B,Category A,Note C,12.4,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Full,4.1,41,74.65,750 mL,Wine description
+Wine E,Country B,Brand C,Category C,Note C,11.7,Food Pairing A,Glassware C,Cellar Temperature,Dry,Medium,4.4,496,70.14,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note C,12.9,Food Pairing A,Glassware B,Room Temperature,Sweet,Medium,1.2,26,70.94,750 mL,Wine description
+Wine B,Country A,Brand C,Category C,Note C,13.5,Food Pairing C,Glassware C,Chilled,Dry,Light,1.6,495,26.2,750 mL,Wine description
+Wine B,Country A,Brand C,Category A,Note A,10.5,Food Pairing A,Glassware C,Chilled,Sweet,Medium,2.9,471,85.17,750 mL,Wine description
+Wine E,Country B,Brand A,Category B,Note A,14.6,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Light,2.6,370,20.66,750 mL,Wine description
+Wine A,Country B,Brand C,Category B,Note B,10.4,Food Pairing C,Glassware A,Chilled,Sweet,Full,3.4,22,65.6,750 mL,Wine description
+Wine D,Country C,Brand B,Category B,Note A,13.2,Food Pairing B,Glassware B,Chilled,Dry,Full,2.0,319,36.01,750 mL,Wine description
+Wine A,Country C,Brand A,Category A,Note C,14.0,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Medium,1.2,436,70.1,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note A,10.5,Food Pairing B,Glassware B,Room Temperature,Dry,Full,3.5,221,86.28,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,11.0,Food Pairing C,Glassware A,Room Temperature,Sweet,Medium,2.3,352,24.34,750 mL,Wine description
+Wine B,Country C,Brand C,Category A,Note A,11.4,Food Pairing C,Glassware B,Chilled,Dry,Full,4.1,59,27.27,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note B,11.0,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,1.2,364,41.58,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note B,13.3,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,1.2,88,61.4,750 mL,Wine description
+Wine B,Country A,Brand B,Category C,Note B,11.7,Food Pairing C,Glassware A,Chilled,Dry,Full,3.0,429,43.58,750 mL,Wine description
+Wine A,Country A,Brand C,Category A,Note C,13.6,Food Pairing A,Glassware A,Chilled,Dry,Full,1.1,110,29.72,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note B,12.8,Food Pairing C,Glassware C,Chilled,Dry,Full,4.2,359,58.17,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note A,11.6,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,1.1,411,10.09,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note B,10.5,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,3.5,316,70.35,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,10.7,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,4.8,188,88.15,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note A,10.0,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Medium,1.4,421,79.3,750 mL,Wine description
+Wine C,Country B,Brand C,Category A,Note A,11.8,Food Pairing C,Glassware C,Cellar Temperature,Dry,Medium,4.2,390,77.67,750 mL,Wine description
+Wine A,Country C,Brand B,Category A,Note A,14.5,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,5.0,181,67.4,750 mL,Wine description
+Wine B,Country A,Brand A,Category B,Note A,10.6,Food Pairing A,Glassware C,Chilled,Sweet,Medium,2.9,280,25.28,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note C,12.2,Food Pairing B,Glassware B,Room Temperature,Dry,Full,1.9,99,25.51,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note C,13.6,Food Pairing B,Glassware B,Chilled,Dry,Full,4.9,201,50.91,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note C,11.4,Food Pairing A,Glassware C,Cellar Temperature,Dry,Full,4.2,387,19.76,750 mL,Wine description
+Wine B,Country C,Brand C,Category C,Note C,11.5,Food Pairing C,Glassware C,Chilled,Sweet,Full,2.6,221,40.67,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note A,14.0,Food Pairing B,Glassware B,Chilled,Sweet,Full,1.7,476,38.54,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note A,13.1,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,1.4,402,77.47,750 mL,Wine description
+Wine B,Country B,Brand B,Category B,Note A,10.4,Food Pairing B,Glassware C,Cellar Temperature,Dry,Light,1.9,78,28.78,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note C,14.5,Food Pairing B,Glassware B,Room Temperature,Dry,Light,1.3,209,35.12,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note B,10.8,Food Pairing B,Glassware A,Chilled,Sweet,Medium,1.0,368,77.91,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note B,10.7,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,3.5,28,34.98,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note A,12.7,Food Pairing B,Glassware C,Room Temperature,Sweet,Light,1.7,339,88.63,750 mL,Wine description
+Wine B,Country A,Brand C,Category A,Note C,12.6,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,2.6,64,14.35,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note C,13.4,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,4.0,479,46.61,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note B,12.4,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,3.1,93,26.12,750 mL,Wine description
+Wine B,Country B,Brand A,Category C,Note B,12.1,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,1.9,292,30.61,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note C,12.6,Food Pairing B,Glassware A,Chilled,Sweet,Full,3.4,345,22.65,750 mL,Wine description
+Wine D,Country A,Brand A,Category C,Note B,13.2,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,3.5,23,11.54,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note A,12.8,Food Pairing C,Glassware C,Room Temperature,Dry,Full,2.5,337,37.72,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note A,12.1,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,3.0,247,36.17,750 mL,Wine description
+Wine D,Country B,Brand C,Category B,Note A,14.0,Food Pairing A,Glassware C,Chilled,Dry,Full,2.7,40,42.59,750 mL,Wine description
+Wine D,Country C,Brand C,Category C,Note C,11.8,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,4.4,393,82.34,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note A,11.1,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,1.6,488,80.87,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note A,11.5,Food Pairing C,Glassware C,Room Temperature,Sweet,Full,2.0,101,60.21,750 mL,Wine description
+Wine A,Country A,Brand C,Category A,Note A,12.9,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,3.4,189,64.85,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note B,10.0,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,1.0,270,32.65,750 mL,Wine description
+Wine D,Country A,Brand B,Category C,Note A,13.3,Food Pairing A,Glassware A,Room Temperature,Dry,Full,2.5,170,27.14,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note B,13.7,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Medium,3.4,445,31.34,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note C,13.2,Food Pairing A,Glassware B,Room Temperature,Sweet,Full,4.1,255,40.52,750 mL,Wine description
+Wine E,Country A,Brand B,Category B,Note A,12.8,Food Pairing C,Glassware B,Chilled,Dry,Light,3.3,354,23.52,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note C,10.7,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,4.4,445,16.24,750 mL,Wine description
+Wine A,Country C,Brand A,Category B,Note B,14.1,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,3.1,406,23.56,750 mL,Wine description
+Wine D,Country C,Brand A,Category C,Note B,14.9,Food Pairing A,Glassware A,Chilled,Dry,Light,3.3,433,82.46,750 mL,Wine description
+Wine C,Country A,Brand C,Category A,Note A,14.8,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Full,2.1,411,84.94,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note C,12.0,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,1.9,389,14.97,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note B,12.7,Food Pairing B,Glassware C,Room Temperature,Dry,Full,3.0,361,64.81,750 mL,Wine description
+Wine D,Country A,Brand A,Category A,Note C,13.4,Food Pairing A,Glassware C,Cellar Temperature,Dry,Light,2.6,57,51.02,750 mL,Wine description
+Wine D,Country B,Brand B,Category A,Note C,13.4,Food Pairing C,Glassware C,Room Temperature,Dry,Light,4.4,401,38.52,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note A,11.5,Food Pairing C,Glassware C,Cellar Temperature,Dry,Medium,4.6,258,74.73,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note B,11.1,Food Pairing A,Glassware A,Chilled,Sweet,Light,3.6,211,89.81,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note B,10.5,Food Pairing A,Glassware A,Chilled,Sweet,Medium,4.9,57,46.33,750 mL,Wine description
+Wine C,Country A,Brand A,Category A,Note A,12.4,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,3.9,198,42.18,750 mL,Wine description
+Wine E,Country A,Brand C,Category C,Note C,14.1,Food Pairing A,Glassware B,Room Temperature,Sweet,Medium,3.4,26,12.98,750 mL,Wine description
+Wine D,Country C,Brand A,Category B,Note A,12.3,Food Pairing C,Glassware C,Room Temperature,Sweet,Full,2.9,237,33.16,750 mL,Wine description
+Wine E,Country A,Brand C,Category C,Note C,11.4,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Light,2.7,327,31.19,750 mL,Wine description
+Wine A,Country B,Brand B,Category A,Note B,12.6,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,4.1,373,45.34,750 mL,Wine description
+Wine B,Country A,Brand A,Category B,Note A,13.5,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,2.4,26,38.8,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note A,10.9,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Full,2.0,166,15.39,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note C,15.0,Food Pairing B,Glassware B,Chilled,Dry,Light,1.5,71,67.39,750 mL,Wine description
+Wine D,Country A,Brand C,Category B,Note C,13.4,Food Pairing C,Glassware A,Room Temperature,Dry,Light,1.1,290,86.03,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note C,13.7,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,2.0,103,19.59,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note A,11.2,Food Pairing A,Glassware C,Room Temperature,Dry,Medium,1.8,39,63.75,750 mL,Wine description
+Wine D,Country C,Brand A,Category A,Note A,14.1,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Full,4.6,327,95.56,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note C,12.0,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,4.6,79,55.11,750 mL,Wine description
+Wine D,Country B,Brand B,Category A,Note C,13.3,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Light,1.8,273,93.1,750 mL,Wine description
+Wine C,Country B,Brand B,Category A,Note B,14.8,Food Pairing C,Glassware B,Chilled,Dry,Medium,1.5,409,95.33,750 mL,Wine description
+Wine E,Country B,Brand C,Category C,Note B,13.9,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Medium,3.7,77,95.95,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note A,13.6,Food Pairing C,Glassware A,Chilled,Dry,Medium,1.2,444,85.03,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note A,12.0,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,2.0,341,74.22,750 mL,Wine description
+Wine E,Country B,Brand A,Category A,Note B,15.0,Food Pairing C,Glassware C,Room Temperature,Dry,Full,2.7,380,14.62,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note B,13.1,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,3.8,268,23.35,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note A,12.5,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,1.9,360,82.84,750 mL,Wine description
+Wine A,Country C,Brand C,Category B,Note C,11.0,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Light,4.9,333,77.65,750 mL,Wine description
+Wine A,Country A,Brand B,Category A,Note A,10.7,Food Pairing C,Glassware B,Chilled,Dry,Medium,2.9,139,23.12,750 mL,Wine description
+Wine E,Country C,Brand A,Category A,Note C,10.3,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Full,2.9,347,76.17,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note B,14.2,Food Pairing B,Glassware B,Room Temperature,Sweet,Full,4.5,197,51.38,750 mL,Wine description
+Wine D,Country A,Brand C,Category A,Note A,12.4,Food Pairing C,Glassware A,Chilled,Sweet,Medium,3.6,286,34.34,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note B,10.4,Food Pairing A,Glassware C,Chilled,Sweet,Full,3.4,312,26.19,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note A,14.2,Food Pairing A,Glassware B,Chilled,Dry,Light,3.7,150,59.17,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note A,10.7,Food Pairing A,Glassware C,Chilled,Sweet,Light,3.1,202,30.87,750 mL,Wine description
+Wine C,Country B,Brand A,Category A,Note A,14.7,Food Pairing A,Glassware B,Room Temperature,Dry,Full,3.3,134,45.13,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note C,14.9,Food Pairing C,Glassware C,Chilled,Sweet,Light,1.8,119,21.08,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,11.0,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,4.6,466,69.18,750 mL,Wine description
+Wine D,Country C,Brand B,Category A,Note C,13.7,Food Pairing C,Glassware C,Chilled,Sweet,Light,1.4,45,64.98,750 mL,Wine description
+Wine C,Country B,Brand A,Category B,Note A,13.0,Food Pairing B,Glassware C,Chilled,Dry,Full,1.7,337,10.64,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note C,12.9,Food Pairing C,Glassware A,Chilled,Dry,Medium,2.3,396,83.44,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note C,11.2,Food Pairing A,Glassware C,Room Temperature,Sweet,Medium,2.9,453,65.44,750 mL,Wine description
+Wine A,Country C,Brand B,Category C,Note C,13.7,Food Pairing A,Glassware B,Chilled,Sweet,Full,1.5,169,41.02,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note C,12.2,Food Pairing C,Glassware A,Room Temperature,Sweet,Medium,2.4,478,19.94,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note B,11.3,Food Pairing B,Glassware B,Room Temperature,Dry,Light,1.2,357,63.89,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note A,13.2,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.8,200,33.47,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note C,10.2,Food Pairing C,Glassware C,Chilled,Dry,Full,4.0,184,42.52,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note A,14.4,Food Pairing C,Glassware B,Chilled,Sweet,Medium,3.7,430,75.63,750 mL,Wine description
+Wine A,Country B,Brand A,Category C,Note B,12.0,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,1.2,61,35.18,750 mL,Wine description
+Wine D,Country A,Brand B,Category A,Note C,10.2,Food Pairing A,Glassware A,Cellar Temperature,Dry,Medium,3.3,126,73.48,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note A,10.4,Food Pairing A,Glassware B,Chilled,Sweet,Full,4.5,410,25.73,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note A,13.5,Food Pairing B,Glassware C,Chilled,Dry,Light,4.4,81,69.14,750 mL,Wine description
+Wine A,Country C,Brand B,Category A,Note B,13.4,Food Pairing C,Glassware C,Chilled,Dry,Full,4.3,243,84.79,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note A,11.3,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Medium,3.5,10,15.97,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note B,10.0,Food Pairing A,Glassware B,Room Temperature,Sweet,Full,3.1,242,98.86,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note B,12.6,Food Pairing C,Glassware B,Chilled,Sweet,Light,2.9,300,29.24,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note C,10.9,Food Pairing A,Glassware C,Cellar Temperature,Dry,Medium,4.2,381,16.03,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note B,14.9,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,3.8,328,22.75,750 mL,Wine description
+Wine C,Country B,Brand A,Category A,Note A,12.5,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,2.1,485,17.09,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note B,13.4,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.3,161,19.95,750 mL,Wine description
+Wine A,Country C,Brand A,Category B,Note A,11.8,Food Pairing B,Glassware C,Room Temperature,Dry,Light,2.5,139,11.95,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note A,11.2,Food Pairing B,Glassware B,Chilled,Dry,Light,4.5,265,80.03,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note C,13.2,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Light,1.8,124,63.92,750 mL,Wine description
+Wine E,Country B,Brand B,Category A,Note A,12.0,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,4.7,229,16.97,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,12.4,Food Pairing C,Glassware B,Cellar Temperature,Dry,Full,2.4,327,26.65,750 mL,Wine description
+Wine C,Country C,Brand C,Category A,Note C,10.7,Food Pairing A,Glassware A,Cellar Temperature,Dry,Medium,1.9,295,40.26,750 mL,Wine description
+Wine D,Country C,Brand A,Category B,Note B,12.1,Food Pairing A,Glassware B,Room Temperature,Dry,Medium,1.6,242,73.08,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note A,14.3,Food Pairing A,Glassware C,Chilled,Dry,Full,1.7,273,46.61,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note B,13.7,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Full,3.9,86,60.44,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note A,11.8,Food Pairing A,Glassware A,Chilled,Sweet,Medium,4.3,68,58.65,750 mL,Wine description
+Wine A,Country B,Brand C,Category B,Note B,13.1,Food Pairing C,Glassware C,Room Temperature,Sweet,Full,2.7,336,39.22,750 mL,Wine description
+Wine D,Country C,Brand B,Category C,Note A,10.4,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,3.2,262,75.05,750 mL,Wine description
+Wine B,Country B,Brand B,Category A,Note A,12.7,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,3.8,235,69.13,750 mL,Wine description
+Wine D,Country A,Brand C,Category A,Note B,14.6,Food Pairing B,Glassware C,Room Temperature,Dry,Light,4.3,69,93.87,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note A,10.9,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,2.3,161,29.61,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,11.3,Food Pairing B,Glassware B,Cellar Temperature,Dry,Medium,4.4,226,96.94,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note C,10.4,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,2.8,445,72.35,750 mL,Wine description
+Wine A,Country B,Brand A,Category B,Note B,11.6,Food Pairing B,Glassware A,Room Temperature,Dry,Full,4.6,118,76.14,750 mL,Wine description
+Wine A,Country B,Brand C,Category B,Note C,12.2,Food Pairing B,Glassware C,Chilled,Sweet,Medium,2.2,274,34.47,750 mL,Wine description
+Wine A,Country B,Brand C,Category B,Note C,12.1,Food Pairing B,Glassware B,Chilled,Sweet,Medium,4.4,417,42.87,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note A,14.5,Food Pairing B,Glassware B,Chilled,Sweet,Medium,3.4,236,83.36,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note A,10.6,Food Pairing A,Glassware C,Room Temperature,Dry,Medium,4.7,429,60.56,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note A,13.4,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,2.7,129,27.61,750 mL,Wine description
+Wine D,Country C,Brand C,Category B,Note C,11.6,Food Pairing C,Glassware A,Chilled,Dry,Full,2.5,25,40.08,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note B,12.8,Food Pairing C,Glassware C,Chilled,Dry,Full,4.8,84,42.35,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note C,13.8,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,2.9,103,86.23,750 mL,Wine description
+Wine D,Country A,Brand C,Category C,Note C,11.7,Food Pairing A,Glassware B,Chilled,Dry,Full,3.8,313,64.1,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note C,10.3,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,2.2,478,39.52,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note B,12.3,Food Pairing A,Glassware B,Chilled,Sweet,Medium,2.8,49,68.58,750 mL,Wine description
+Wine E,Country B,Brand A,Category A,Note A,10.6,Food Pairing C,Glassware B,Chilled,Dry,Medium,2.4,302,96.37,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note B,12.6,Food Pairing C,Glassware A,Chilled,Sweet,Medium,5.0,382,25.9,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note A,13.3,Food Pairing A,Glassware B,Room Temperature,Dry,Light,4.7,274,14.17,750 mL,Wine description
+Wine D,Country C,Brand B,Category C,Note A,12.9,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,3.5,15,53.25,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note A,11.4,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,2.6,476,88.63,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note A,13.0,Food Pairing A,Glassware B,Chilled,Sweet,Full,3.7,213,32.08,750 mL,Wine description
+Wine D,Country A,Brand C,Category A,Note A,13.2,Food Pairing C,Glassware C,Chilled,Sweet,Medium,3.1,164,12.61,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note A,14.3,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,1.8,262,50.3,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note C,13.0,Food Pairing C,Glassware C,Room Temperature,Sweet,Light,3.3,430,62.02,750 mL,Wine description
+Wine E,Country A,Brand C,Category C,Note C,13.3,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Full,3.4,34,15.67,750 mL,Wine description
+Wine D,Country C,Brand A,Category C,Note C,12.3,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,2.9,366,49.49,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,13.2,Food Pairing C,Glassware A,Room Temperature,Dry,Full,2.7,115,47.87,750 mL,Wine description
+Wine E,Country B,Brand C,Category C,Note B,11.9,Food Pairing A,Glassware C,Cellar Temperature,Dry,Full,2.2,184,10.98,750 mL,Wine description
+Wine C,Country C,Brand C,Category B,Note C,12.6,Food Pairing B,Glassware C,Room Temperature,Dry,Full,4.9,381,27.42,750 mL,Wine description
+Wine C,Country A,Brand B,Category B,Note A,13.4,Food Pairing C,Glassware B,Chilled,Dry,Light,2.3,38,60.37,750 mL,Wine description
+Wine E,Country A,Brand A,Category B,Note B,14.9,Food Pairing B,Glassware C,Chilled,Dry,Medium,4.6,308,67.53,750 mL,Wine description
+Wine B,Country B,Brand B,Category B,Note C,13.9,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,3.4,266,65.82,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,10.9,Food Pairing C,Glassware C,Cellar Temperature,Dry,Light,2.9,491,12.07,750 mL,Wine description
+Wine E,Country C,Brand B,Category B,Note C,12.0,Food Pairing A,Glassware B,Cellar Temperature,Dry,Light,4.3,74,64.11,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note A,14.0,Food Pairing C,Glassware A,Room Temperature,Dry,Medium,2.6,372,35.19,750 mL,Wine description
+Wine B,Country B,Brand A,Category A,Note A,13.6,Food Pairing C,Glassware A,Room Temperature,Dry,Full,2.3,270,62.89,750 mL,Wine description
+Wine D,Country A,Brand A,Category A,Note A,14.0,Food Pairing B,Glassware A,Chilled,Sweet,Full,1.3,323,76.12,750 mL,Wine description
+Wine E,Country B,Brand A,Category C,Note A,10.6,Food Pairing B,Glassware B,Chilled,Dry,Medium,2.1,331,42.65,750 mL,Wine description
+Wine C,Country C,Brand C,Category C,Note B,11.6,Food Pairing A,Glassware C,Chilled,Dry,Light,1.6,239,41.14,750 mL,Wine description
+Wine A,Country B,Brand B,Category A,Note C,11.0,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Full,3.5,111,79.97,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note B,14.1,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,4.0,487,76.96,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note B,14.7,Food Pairing C,Glassware C,Chilled,Sweet,Medium,1.7,146,61.51,750 mL,Wine description
+Wine B,Country C,Brand C,Category B,Note B,10.9,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,4.3,398,28.42,750 mL,Wine description
+Wine A,Country C,Brand B,Category C,Note B,11.9,Food Pairing A,Glassware C,Room Temperature,Dry,Light,4.0,81,24.92,750 mL,Wine description
+Wine B,Country A,Brand A,Category B,Note C,13.9,Food Pairing C,Glassware B,Chilled,Dry,Medium,2.3,476,24.13,750 mL,Wine description
+Wine C,Country A,Brand B,Category C,Note B,13.3,Food Pairing C,Glassware B,Cellar Temperature,Dry,Full,1.4,396,47.7,750 mL,Wine description
+Wine D,Country A,Brand B,Category A,Note C,11.4,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Full,4.0,358,50.39,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,14.0,Food Pairing B,Glassware C,Chilled,Dry,Medium,3.1,410,74.28,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note A,14.7,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,4.2,62,45.75,750 mL,Wine description
+Wine B,Country C,Brand B,Category A,Note A,14.5,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,2.7,350,90.39,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note B,11.5,Food Pairing C,Glassware B,Cellar Temperature,Dry,Full,3.0,130,65.32,750 mL,Wine description
+Wine A,Country A,Brand A,Category A,Note A,12.5,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,4.8,424,54.81,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note B,12.5,Food Pairing B,Glassware A,Chilled,Dry,Light,3.3,210,42.93,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note C,13.6,Food Pairing C,Glassware A,Cellar Temperature,Dry,Full,2.4,170,18.26,750 mL,Wine description
+Wine B,Country C,Brand B,Category C,Note B,13.6,Food Pairing C,Glassware C,Chilled,Dry,Full,2.5,182,48.47,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note C,11.6,Food Pairing A,Glassware C,Chilled,Sweet,Light,1.6,223,70.13,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note B,12.2,Food Pairing A,Glassware C,Room Temperature,Dry,Light,4.3,138,99.56,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,13.9,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,4.2,451,48.83,750 mL,Wine description
+Wine C,Country A,Brand A,Category B,Note B,13.1,Food Pairing B,Glassware B,Chilled,Sweet,Full,4.6,411,36.82,750 mL,Wine description
+Wine D,Country C,Brand B,Category B,Note A,11.1,Food Pairing B,Glassware B,Chilled,Dry,Medium,3.4,386,71.99,750 mL,Wine description
+Wine A,Country A,Brand B,Category C,Note B,12.3,Food Pairing A,Glassware C,Chilled,Dry,Full,3.8,408,17.87,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note A,13.5,Food Pairing B,Glassware A,Room Temperature,Sweet,Light,4.0,395,85.8,750 mL,Wine description
+Wine E,Country A,Brand B,Category C,Note C,13.0,Food Pairing B,Glassware A,Chilled,Sweet,Light,1.9,109,76.31,750 mL,Wine description
+Wine A,Country B,Brand B,Category B,Note C,10.3,Food Pairing A,Glassware B,Cellar Temperature,Dry,Full,4.0,236,76.76,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note B,12.2,Food Pairing B,Glassware C,Cellar Temperature,Dry,Light,3.2,100,80.75,750 mL,Wine description
+Wine D,Country A,Brand B,Category A,Note B,12.8,Food Pairing A,Glassware B,Chilled,Dry,Medium,2.7,449,55.65,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note B,11.5,Food Pairing A,Glassware C,Chilled,Dry,Full,2.0,172,89.94,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note C,10.7,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,4.9,12,62.76,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note C,11.5,Food Pairing B,Glassware C,Room Temperature,Dry,Full,3.0,476,49.01,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note A,11.6,Food Pairing B,Glassware B,Room Temperature,Dry,Light,1.5,349,36.95,750 mL,Wine description
+Wine C,Country A,Brand C,Category A,Note C,13.9,Food Pairing B,Glassware C,Chilled,Sweet,Light,4.2,456,55.86,750 mL,Wine description
+Wine A,Country A,Brand B,Category C,Note C,11.5,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,5.0,452,96.1,750 mL,Wine description
+Wine A,Country B,Brand B,Category C,Note A,13.7,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,1.8,246,64.71,750 mL,Wine description
+Wine D,Country B,Brand B,Category C,Note A,13.2,Food Pairing C,Glassware B,Room Temperature,Dry,Medium,2.8,44,64.8,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note C,15.0,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,2.5,404,62.69,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note B,11.9,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,2.5,325,55.95,750 mL,Wine description
+Wine D,Country A,Brand B,Category C,Note C,13.1,Food Pairing A,Glassware C,Room Temperature,Sweet,Light,2.8,381,12.26,750 mL,Wine description
+Wine B,Country B,Brand B,Category C,Note C,10.9,Food Pairing A,Glassware B,Chilled,Dry,Light,1.8,17,10.73,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note B,11.6,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Light,1.6,394,77.5,750 mL,Wine description
+Wine D,Country B,Brand C,Category B,Note B,12.8,Food Pairing B,Glassware C,Chilled,Dry,Full,4.5,76,16.65,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note C,14.0,Food Pairing B,Glassware B,Chilled,Dry,Medium,2.0,219,30.32,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note B,12.7,Food Pairing C,Glassware A,Chilled,Dry,Full,2.3,300,36.25,750 mL,Wine description
+Wine B,Country A,Brand B,Category C,Note B,12.1,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,1.6,213,56.22,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note A,13.2,Food Pairing C,Glassware B,Chilled,Sweet,Full,3.5,108,31.0,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note B,12.9,Food Pairing A,Glassware C,Chilled,Sweet,Medium,1.9,407,20.34,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note B,11.7,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Full,4.9,22,57.92,750 mL,Wine description
+Wine A,Country C,Brand B,Category A,Note B,12.9,Food Pairing C,Glassware C,Chilled,Dry,Full,2.0,378,65.18,750 mL,Wine description
+Wine E,Country A,Brand B,Category A,Note C,14.9,Food Pairing A,Glassware C,Chilled,Dry,Light,4.0,346,66.73,750 mL,Wine description
+Wine A,Country C,Brand B,Category C,Note C,11.7,Food Pairing A,Glassware B,Cellar Temperature,Dry,Full,2.5,453,53.41,750 mL,Wine description
+Wine A,Country A,Brand B,Category A,Note A,10.9,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Light,2.4,327,80.57,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note B,12.2,Food Pairing A,Glassware C,Room Temperature,Dry,Full,2.6,372,61.08,750 mL,Wine description
+Wine D,Country B,Brand B,Category B,Note C,13.8,Food Pairing C,Glassware B,Chilled,Dry,Light,4.5,113,44.35,750 mL,Wine description
+Wine B,Country A,Brand A,Category A,Note C,11.9,Food Pairing C,Glassware C,Chilled,Dry,Medium,3.8,443,17.22,750 mL,Wine description
+Wine E,Country C,Brand C,Category C,Note B,11.9,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,1.8,149,31.57,750 mL,Wine description
+Wine B,Country C,Brand B,Category C,Note A,13.7,Food Pairing A,Glassware C,Chilled,Sweet,Medium,4.7,472,15.77,750 mL,Wine description
+Wine E,Country C,Brand A,Category B,Note A,13.1,Food Pairing B,Glassware C,Chilled,Sweet,Light,4.8,124,53.82,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note C,13.3,Food Pairing C,Glassware B,Chilled,Sweet,Medium,5.0,317,47.17,750 mL,Wine description
+Wine C,Country C,Brand A,Category B,Note B,13.7,Food Pairing A,Glassware A,Room Temperature,Dry,Full,2.9,474,99.54,750 mL,Wine description
+Wine B,Country B,Brand C,Category C,Note C,10.8,Food Pairing A,Glassware A,Chilled,Dry,Medium,2.7,54,70.39,750 mL,Wine description
+Wine A,Country C,Brand B,Category B,Note C,10.8,Food Pairing B,Glassware C,Cellar Temperature,Sweet,Light,1.6,217,89.13,750 mL,Wine description
+Wine C,Country A,Brand B,Category B,Note A,12.1,Food Pairing B,Glassware A,Room Temperature,Sweet,Full,4.1,403,21.11,750 mL,Wine description
+Wine C,Country B,Brand A,Category C,Note B,14.7,Food Pairing B,Glassware A,Chilled,Dry,Medium,4.9,330,29.41,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note B,11.7,Food Pairing A,Glassware C,Cellar Temperature,Sweet,Light,4.5,38,50.87,750 mL,Wine description
+Wine C,Country C,Brand C,Category A,Note C,13.7,Food Pairing B,Glassware A,Chilled,Sweet,Medium,2.3,441,19.54,750 mL,Wine description
+Wine C,Country B,Brand B,Category C,Note A,14.3,Food Pairing C,Glassware A,Chilled,Dry,Medium,2.9,29,39.76,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note B,11.7,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,1.5,314,67.87,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note C,12.5,Food Pairing B,Glassware C,Chilled,Dry,Full,4.5,400,99.44,750 mL,Wine description
+Wine B,Country B,Brand B,Category B,Note A,14.6,Food Pairing C,Glassware B,Chilled,Sweet,Light,4.7,324,10.23,750 mL,Wine description
+Wine B,Country B,Brand C,Category C,Note C,13.4,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,1.3,373,58.51,750 mL,Wine description
+Wine B,Country A,Brand C,Category A,Note B,10.4,Food Pairing B,Glassware C,Room Temperature,Dry,Medium,4.6,264,45.31,750 mL,Wine description
+Wine D,Country C,Brand B,Category C,Note B,13.3,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,3.4,29,49.47,750 mL,Wine description
+Wine A,Country A,Brand B,Category B,Note A,13.6,Food Pairing B,Glassware A,Cellar Temperature,Dry,Light,1.4,354,46.61,750 mL,Wine description
+Wine C,Country B,Brand A,Category B,Note C,12.7,Food Pairing A,Glassware B,Chilled,Sweet,Medium,3.3,428,32.63,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note C,12.2,Food Pairing A,Glassware B,Room Temperature,Sweet,Light,2.0,385,61.47,750 mL,Wine description
+Wine C,Country B,Brand B,Category B,Note C,13.4,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.4,462,13.98,750 mL,Wine description
+Wine A,Country A,Brand A,Category B,Note A,13.4,Food Pairing A,Glassware C,Chilled,Sweet,Full,4.0,274,95.16,750 mL,Wine description
+Wine D,Country A,Brand C,Category B,Note C,14.8,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Light,1.9,247,97.15,750 mL,Wine description
+Wine D,Country C,Brand A,Category C,Note B,12.5,Food Pairing B,Glassware A,Chilled,Dry,Medium,3.8,497,38.86,750 mL,Wine description
+Wine C,Country B,Brand C,Category C,Note A,10.5,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,2.3,82,40.36,750 mL,Wine description
+Wine B,Country C,Brand C,Category B,Note C,11.2,Food Pairing A,Glassware B,Chilled,Dry,Full,2.1,132,75.41,750 mL,Wine description
+Wine E,Country B,Brand C,Category A,Note B,14.5,Food Pairing A,Glassware A,Chilled,Sweet,Full,1.6,432,55.13,750 mL,Wine description
+Wine C,Country A,Brand C,Category B,Note C,14.2,Food Pairing A,Glassware A,Room Temperature,Sweet,Medium,1.4,431,16.23,750 mL,Wine description
+Wine A,Country C,Brand A,Category A,Note A,12.1,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Medium,1.7,56,87.62,750 mL,Wine description
+Wine D,Country B,Brand C,Category C,Note C,11.2,Food Pairing C,Glassware A,Cellar Temperature,Dry,Medium,3.8,173,95.35,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note C,10.6,Food Pairing C,Glassware A,Chilled,Sweet,Full,3.7,345,76.53,750 mL,Wine description
+Wine C,Country A,Brand C,Category C,Note B,13.8,Food Pairing A,Glassware B,Chilled,Dry,Full,2.9,107,60.05,750 mL,Wine description
+Wine D,Country A,Brand A,Category B,Note C,10.5,Food Pairing A,Glassware B,Cellar Temperature,Dry,Medium,3.8,416,87.46,750 mL,Wine description
+Wine E,Country A,Brand B,Category C,Note B,12.2,Food Pairing B,Glassware B,Chilled,Sweet,Light,4.2,37,63.09,750 mL,Wine description
+Wine C,Country B,Brand B,Category A,Note B,13.3,Food Pairing A,Glassware A,Room Temperature,Sweet,Full,1.2,303,26.73,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note B,12.9,Food Pairing B,Glassware B,Room Temperature,Dry,Full,3.6,147,20.84,750 mL,Wine description
+Wine A,Country A,Brand C,Category C,Note B,10.9,Food Pairing C,Glassware B,Room Temperature,Sweet,Full,4.4,169,60.07,750 mL,Wine description
+Wine B,Country A,Brand C,Category A,Note A,13.1,Food Pairing B,Glassware C,Chilled,Dry,Full,2.8,481,75.5,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note A,10.9,Food Pairing C,Glassware A,Chilled,Sweet,Medium,4.0,242,27.56,750 mL,Wine description
+Wine B,Country A,Brand B,Category B,Note C,12.5,Food Pairing C,Glassware C,Room Temperature,Dry,Medium,3.6,484,96.99,750 mL,Wine description
+Wine D,Country A,Brand B,Category B,Note A,10.3,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,4.6,299,58.6,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note A,10.0,Food Pairing B,Glassware B,Chilled,Sweet,Full,4.3,406,62.43,750 mL,Wine description
+Wine D,Country C,Brand C,Category A,Note B,10.9,Food Pairing C,Glassware A,Chilled,Sweet,Full,4.5,370,86.25,750 mL,Wine description
+Wine C,Country B,Brand A,Category A,Note B,14.1,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Full,3.5,375,60.86,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note A,14.5,Food Pairing A,Glassware A,Chilled,Sweet,Full,1.1,238,52.51,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note C,14.5,Food Pairing B,Glassware C,Cellar Temperature,Dry,Medium,1.7,92,56.54,750 mL,Wine description
+Wine B,Country A,Brand C,Category B,Note A,14.7,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,1.6,143,33.49,750 mL,Wine description
+Wine C,Country A,Brand C,Category A,Note A,14.2,Food Pairing C,Glassware A,Room Temperature,Dry,Full,1.5,238,87.78,750 mL,Wine description
+Wine A,Country C,Brand C,Category C,Note C,10.8,Food Pairing B,Glassware C,Room Temperature,Dry,Full,3.9,343,23.5,750 mL,Wine description
+Wine B,Country C,Brand B,Category B,Note B,10.6,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,1.7,130,53.1,750 mL,Wine description
+Wine A,Country C,Brand C,Category A,Note A,12.4,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Medium,1.7,360,40.46,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,14.0,Food Pairing A,Glassware B,Room Temperature,Dry,Full,2.1,436,32.84,750 mL,Wine description
+Wine D,Country A,Brand A,Category C,Note B,12.4,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,2.3,281,12.89,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note B,12.0,Food Pairing C,Glassware A,Chilled,Sweet,Full,2.8,277,77.67,750 mL,Wine description
+Wine C,Country C,Brand A,Category C,Note C,10.8,Food Pairing C,Glassware A,Cellar Temperature,Sweet,Light,1.5,79,38.84,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note A,10.1,Food Pairing B,Glassware B,Cellar Temperature,Dry,Full,1.1,319,52.04,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note C,12.5,Food Pairing B,Glassware C,Room Temperature,Dry,Light,2.2,69,99.24,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note A,10.3,Food Pairing A,Glassware B,Cellar Temperature,Dry,Light,2.3,226,81.45,750 mL,Wine description
+Wine D,Country C,Brand B,Category C,Note C,14.8,Food Pairing B,Glassware B,Chilled,Dry,Full,4.6,100,49.09,750 mL,Wine description
+Wine A,Country B,Brand A,Category A,Note C,13.8,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Full,4.4,114,61.47,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note A,14.8,Food Pairing C,Glassware C,Cellar Temperature,Sweet,Medium,2.3,227,16.12,750 mL,Wine description
+Wine A,Country A,Brand A,Category A,Note A,15.0,Food Pairing B,Glassware B,Room Temperature,Sweet,Medium,4.7,92,46.13,750 mL,Wine description
+Wine D,Country B,Brand A,Category A,Note B,10.8,Food Pairing B,Glassware B,Room Temperature,Sweet,Medium,1.1,341,57.86,750 mL,Wine description
+Wine C,Country B,Brand B,Category C,Note A,14.2,Food Pairing A,Glassware C,Room Temperature,Dry,Light,5.0,310,66.25,750 mL,Wine description
+Wine E,Country B,Brand C,Category B,Note C,11.3,Food Pairing A,Glassware C,Room Temperature,Dry,Medium,4.4,434,56.79,750 mL,Wine description
+Wine A,Country A,Brand B,Category B,Note C,13.6,Food Pairing B,Glassware A,Cellar Temperature,Dry,Medium,2.6,257,63.91,750 mL,Wine description
+Wine D,Country A,Brand B,Category C,Note B,11.8,Food Pairing C,Glassware B,Room Temperature,Dry,Medium,2.4,221,24.29,750 mL,Wine description
+Wine C,Country C,Brand B,Category B,Note B,12.9,Food Pairing A,Glassware A,Cellar Temperature,Sweet,Light,2.4,130,41.16,750 mL,Wine description
+Wine B,Country C,Brand A,Category C,Note C,13.4,Food Pairing B,Glassware A,Chilled,Sweet,Light,1.4,207,33.23,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,12.2,Food Pairing C,Glassware B,Chilled,Dry,Light,3.8,415,37.94,750 mL,Wine description
+Wine A,Country B,Brand B,Category C,Note A,14.6,Food Pairing B,Glassware B,Chilled,Dry,Medium,2.1,203,50.2,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note B,14.9,Food Pairing C,Glassware A,Room Temperature,Dry,Light,4.2,125,84.43,750 mL,Wine description
+Wine E,Country C,Brand C,Category A,Note B,12.0,Food Pairing B,Glassware C,Chilled,Sweet,Full,3.9,420,89.13,750 mL,Wine description
+Wine C,Country A,Brand C,Category B,Note A,11.7,Food Pairing C,Glassware C,Chilled,Dry,Light,1.8,249,30.07,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note C,10.2,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Light,3.7,361,67.67,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note A,13.5,Food Pairing B,Glassware A,Cellar Temperature,Sweet,Full,2.8,448,22.47,750 mL,Wine description
+Wine A,Country A,Brand A,Category C,Note A,11.4,Food Pairing C,Glassware C,Chilled,Dry,Light,4.8,376,37.56,750 mL,Wine description
+Wine E,Country A,Brand C,Category A,Note B,13.7,Food Pairing B,Glassware A,Cellar Temperature,Dry,Full,3.4,262,85.77,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note A,11.4,Food Pairing B,Glassware C,Room Temperature,Sweet,Medium,1.4,168,11.66,750 mL,Wine description
+Wine E,Country B,Brand C,Category C,Note A,13.3,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Light,4.0,314,81.87,750 mL,Wine description
+Wine B,Country C,Brand C,Category B,Note B,14.2,Food Pairing C,Glassware B,Room Temperature,Sweet,Medium,4.4,96,54.59,750 mL,Wine description
+Wine B,Country B,Brand A,Category B,Note C,11.8,Food Pairing A,Glassware A,Chilled,Dry,Full,1.1,313,21.03,750 mL,Wine description
+Wine B,Country B,Brand C,Category B,Note A,10.8,Food Pairing A,Glassware A,Room Temperature,Sweet,Light,4.4,288,57.86,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note A,14.7,Food Pairing A,Glassware A,Room Temperature,Sweet,Light,3.0,236,23.92,750 mL,Wine description
+Wine C,Country A,Brand C,Category A,Note C,10.1,Food Pairing B,Glassware B,Chilled,Sweet,Light,2.9,451,62.47,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note A,13.5,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,3.2,469,98.09,750 mL,Wine description
+Wine A,Country C,Brand A,Category C,Note B,12.5,Food Pairing B,Glassware A,Chilled,Dry,Medium,4.1,121,66.47,750 mL,Wine description
+Wine D,Country B,Brand B,Category A,Note C,14.4,Food Pairing C,Glassware A,Chilled,Dry,Light,3.9,285,21.05,750 mL,Wine description
+Wine D,Country A,Brand C,Category A,Note C,14.9,Food Pairing C,Glassware B,Cellar Temperature,Sweet,Medium,4.7,134,74.85,750 mL,Wine description
+Wine B,Country C,Brand C,Category A,Note C,12.3,Food Pairing C,Glassware B,Cellar Temperature,Dry,Medium,2.8,225,76.06,750 mL,Wine description
+Wine E,Country C,Brand C,Category B,Note A,10.1,Food Pairing B,Glassware C,Room Temperature,Dry,Light,2.3,448,84.9,750 mL,Wine description
+Wine E,Country C,Brand B,Category C,Note B,11.5,Food Pairing A,Glassware A,Room Temperature,Dry,Full,3.3,94,59.75,750 mL,Wine description
+Wine C,Country A,Brand C,Category B,Note C,13.0,Food Pairing B,Glassware B,Room Temperature,Sweet,Light,2.8,376,54.18,750 mL,Wine description
+Wine E,Country C,Brand B,Category A,Note C,14.3,Food Pairing A,Glassware B,Chilled,Dry,Medium,3.1,260,78.39,750 mL,Wine description
+Wine C,Country C,Brand B,Category A,Note A,10.8,Food Pairing C,Glassware A,Cellar Temperature,Dry,Light,2.6,96,87.14,750 mL,Wine description
+Wine B,Country C,Brand C,Category C,Note A,14.0,Food Pairing A,Glassware B,Room Temperature,Dry,Full,2.4,166,85.89,750 mL,Wine description
+Wine C,Country C,Brand A,Category A,Note A,12.9,Food Pairing A,Glassware C,Chilled,Sweet,Full,1.3,102,60.16,750 mL,Wine description
+Wine D,Country B,Brand C,Category A,Note B,10.2,Food Pairing C,Glassware A,Chilled,Dry,Medium,1.4,134,66.94,750 mL,Wine description
+Wine E,Country A,Brand A,Category A,Note A,11.1,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Full,1.4,278,31.92,750 mL,Wine description
+Wine E,Country B,Brand C,Category C,Note B,11.0,Food Pairing B,Glassware B,Cellar Temperature,Dry,Light,1.9,247,24.28,750 mL,Wine description
+Wine D,Country B,Brand A,Category C,Note A,12.6,Food Pairing B,Glassware B,Room Temperature,Dry,Medium,2.9,384,99.13,750 mL,Wine description
+Wine B,Country C,Brand A,Category B,Note C,13.7,Food Pairing C,Glassware A,Chilled,Dry,Medium,3.3,74,74.13,750 mL,Wine description
+Wine D,Country A,Brand A,Category C,Note A,11.8,Food Pairing B,Glassware A,Room Temperature,Sweet,Medium,4.5,273,51.51,750 mL,Wine description
+Wine E,Country B,Brand B,Category B,Note B,13.5,Food Pairing A,Glassware A,Cellar Temperature,Dry,Medium,4.1,152,66.26,750 mL,Wine description
+Wine B,Country A,Brand A,Category C,Note B,14.2,Food Pairing B,Glassware B,Chilled,Dry,Full,2.7,464,36.25,750 mL,Wine description
+Wine C,Country C,Brand A,Category A,Note A,10.5,Food Pairing B,Glassware C,Chilled,Dry,Medium,3.5,129,52.45,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note C,10.8,Food Pairing B,Glassware C,Chilled,Sweet,Full,1.5,210,39.15,750 mL,Wine description
+Wine A,Country A,Brand C,Category B,Note C,11.3,Food Pairing B,Glassware B,Cellar Temperature,Sweet,Medium,2.7,475,94.91,750 mL,Wine description
+Wine B,Country B,Brand B,Category C,Note B,10.5,Food Pairing B,Glassware C,Cellar Temperature,Dry,Full,2.5,483,58.0,750 mL,Wine description
+Wine B,Country A,Brand B,Category C,Note A,13.2,Food Pairing A,Glassware A,Chilled,Dry,Light,2.2,201,53.11,750 mL,Wine description
+Wine E,Country C,Brand A,Category C,Note B,13.8,Food Pairing C,Glassware B,Room Temperature,Dry,Full,2.6,392,57.57,750 mL,Wine description
+Wine E,Country A,Brand A,Category C,Note C,12.4,Food Pairing A,Glassware B,Cellar Temperature,Sweet,Light,4.2,191,35.74,750 mL,Wine description
+Wine E,Country A,Brand C,Category B,Note B,10.1,Food Pairing A,Glassware B,Cellar Temperature,Dry,Medium,1.7,15,58.11,750 mL,Wine description
+Wine C,Country B,Brand C,Category A,Note A,13.4,Food Pairing A,Glassware C,Chilled,Sweet,Light,3.0,116,20.18,750 mL,Wine description
+Wine E,Country B,Brand B,Category C,Note B,13.8,Food Pairing A,Glassware A,Room Temperature,Dry,Light,4.4,471,81.82,750 mL,Wine description
+Wine A,Country C,Brand C,Category A,Note B,13.6,Food Pairing B,Glassware B,Room Temperature,Sweet,Full,1.1,368,99.02,750 mL,Wine description
+Wine C,Country B,Brand B,Category C,Note C,10.9,Food Pairing C,Glassware C,Chilled,Sweet,Light,3.2,300,49.56,750 mL,Wine description
+Wine C,Country B,Brand A,Category B,Note C,13.2,Food Pairing A,Glassware C,Room Temperature,Sweet,Full,4.0,11,36.14,750 mL,Wine description
+Wine C,Country C,Brand B,Category C,Note B,13.2,Food Pairing A,Glassware A,Chilled,Dry,Light,2.7,260,49.26,750 mL,Wine description
